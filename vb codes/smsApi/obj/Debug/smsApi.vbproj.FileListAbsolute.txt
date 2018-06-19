@@ -1,0 +1,11 @@
+C:\Users\hrzp\Desktop\New folder (2)\smsApi\bin\Debug\smsApi.exe.config
+C:\Users\hrzp\Desktop\New folder (2)\smsApi\bin\Debug\smsApi.exe
+C:\Users\hrzp\Desktop\New folder (2)\smsApi\bin\Debug\smsApi.pdb
+C:\Users\hrzp\Desktop\New folder (2)\smsApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hrzp\Desktop\New folder (2)\smsApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hrzp\Desktop\New folder (2)\smsApi\obj\Debug\smsApi.vbprojResolveAssemblyReference.cache
+C:\Users\hrzp\Desktop\New folder (2)\smsApi\obj\Debug\smsApi.Form1.resources
+C:\Users\hrzp\Desktop\New folder (2)\smsApi\obj\Debug\Resources.resources
+C:\Users\hrzp\Desktop\New folder (2)\smsApi\obj\Debug\smsApi.vbproj.GenerateResource.Cache
+C:\Users\hrzp\Desktop\New folder (2)\smsApi\obj\Debug\smsApi.exe
+C:\Users\hrzp\Desktop\New folder (2)\smsApi\obj\Debug\smsApi.pdb
